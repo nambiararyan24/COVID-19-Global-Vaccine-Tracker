@@ -5,33 +5,33 @@ Have you wondered how countries worldwide are faring in the race to vaccinate ag
 - **Dashboard Objective:** Outline the dashboard's primary goal to track global vaccine progress and understand COVID-19's impact worldwide.
 
 ## Step 2 - Key Performance Indicators (KPIs)
-Develop KPIs such as:
+**Creating KPIs:** Develop KPIs such as:
 - **Partially Vaccinated:** Utilize Tableau's tools to display individuals with one dose of the COVID-19 vaccine.
 - **Fully Vaccinated:** Showcase data regarding individuals who have completed their vaccination regimen.
 - **Unvaccinated Percentage:** Calculate and display the percentage of the population not vaccinated.
   
 ## Step 3 - Visualizing Vaccination Data
-- **Country-wise Analysis:** Generate visual representations of vaccination status across different countries.
+**Country-wise Analysis:** Generate visual representations of vaccination status across different countries.
 - **Bar Charts:** Utilize bar charts to illustrate partially and fully vaccinated individuals per country.
 - **Sorting and Formatting:** Sort countries based on vaccination percentages and enhance visual appeal with colour and text formatting.
   
 ## Step 4 - Mapping Vaccination Rates
-- **Utilizing Maps:** Incorporate geographical representations to display vaccination rates.
+**Utilizing Maps:** Incorporate geographical representations to display vaccination rates.
 - **Geographical Data:** Use country data to generate a world map displaying vaccination rates per 100 individuals.
 - **Colour Coding:** Apply suitable colour schemes for a clear interpretation of vaccination rates.
   
 ## Step 5 - Analyzing Correlations
-- **GDP and Vaccination Correlation:** Explore the relationship between a country's GDP per capita and vaccination rates.
+**GDP and Vaccination Correlation:** Explore the relationship between a country's GDP per capita and vaccination rates.
 - **Data Analysis:** Use GDP data alongside vaccination rates to establish correlations.
 - **Trend Analysis:** Implement trend lines to showcase how GDP impacts vaccination rates.
   
 ## Step 6 - Dashboard Integration
-- **Dashboard Creation:** Integrate all visual elements into a cohesive dashboard.
+**Dashboard Creation:** Integrate all visual elements into a cohesive dashboard.
 - **Widget Placement:** Arrange widgets systematically for easy comprehension.
 - **Filter Integration:** Implement filters for user interaction and data exploration.
   
 ## Step 7 - Dashboard Finalization and User Interaction
-- **Customization:** Fine-tune dashboard aesthetics and functionalities.
+**Customization:** Fine-tune dashboard aesthetics and functionalities.
 - **Formatting:** Ensure a visually appealing layout and colour scheme.
 - **Interactive Elements:** Enable filters for user-driven exploration and data selection.
 
