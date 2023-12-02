@@ -6,19 +6,19 @@ Have you wondered how countries worldwide are faring in the race to vaccinate ag
 
 ## Step 2 - Key Performance Indicators (KPIs)
 Develop KPIs such as:
-- **Partially Vaccinated:** Utilize Tableau's tools to display individuals with one dose of the COVID vaccine.
+- **Partially Vaccinated:** Utilize Tableau's tools to display individuals with one dose of the COVID-19 vaccine.
 - **Fully Vaccinated:** Showcase data regarding individuals who have completed their vaccination regimen.
 - **Unvaccinated Percentage:** Calculate and display the percentage of the population not vaccinated.
   
 ## Step 3 - Visualizing Vaccination Data
 - **Country-wise Analysis:** Generate visual representations of vaccination status across different countries.
 - **Bar Charts:** Utilize bar charts to illustrate partially and fully vaccinated individuals per country.
-- **Sorting and Formatting:** Sort countries based on vaccination percentages and enhance visual appeal with color and text formatting.
+- **Sorting and Formatting:** Sort countries based on vaccination percentages and enhance visual appeal with colour and text formatting.
   
 ## Step 4 - Mapping Vaccination Rates
 - **Utilizing Maps:** Incorporate geographical representations to display vaccination rates.
 - **Geographical Data:** Use country data to generate a world map displaying vaccination rates per 100 individuals.
-- **Color Coding:** Apply suitable color schemes for clear interpretation of vaccination rates.
+- **Colour Coding:** Apply suitable colour schemes for a clear interpretation of vaccination rates.
   
 ## Step 5 - Analyzing Correlations
 - **GDP and Vaccination Correlation:** Explore the relationship between a country's GDP per capita and vaccination rates.
